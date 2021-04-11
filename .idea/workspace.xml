@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1b0d76d-6a6d-4d2b-a1ab-30a677b91c41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Appointment.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Appointment.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/Appointment.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,7 +54,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Jest.Appointment.renders the customer first name">
+  <component name="RunManager" selected="Node.js.Appointment.jsx">
     <configuration name="Appointment" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="/usr/local/Cellar/node/15.12.0/bin/node" />
       <node-options value="" />
@@ -101,8 +104,12 @@
       <scope-kind value="ALL" />
       <method v="2" />
     </configuration>
+    <configuration name="Appointment.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Appointment.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Appointment.jsx" />
         <item itemvalue="Jest.Appointment.renders the customer first name" />
         <item itemvalue="Jest.Appointment.works" />
         <item itemvalue="Jest.Appointment" />
@@ -118,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618095470385</updated>
-      <workItem from="1618095472375" duration="2369000" />
+      <workItem from="1618095472375" duration="3341000" />
     </task>
     <servers />
   </component>
@@ -141,22 +148,22 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="0" y="23" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1618163548424" />
-    <state width="740" height="145" key="GridCell.Tab.0.bottom" timestamp="1618163839714">
+    <state width="686" height="145" key="GridCell.Tab.0.bottom" timestamp="1618177826186">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="740" height="145" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1618163839714" />
-    <state width="740" height="145" key="GridCell.Tab.0.center" timestamp="1618163839713">
+    <state width="686" height="145" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1618177826186" />
+    <state width="686" height="145" key="GridCell.Tab.0.center" timestamp="1618177826185">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="740" height="145" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1618163839713" />
-    <state width="740" height="145" key="GridCell.Tab.0.left" timestamp="1618163839712">
+    <state width="686" height="145" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1618177826185" />
+    <state width="686" height="145" key="GridCell.Tab.0.left" timestamp="1618177826184">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="740" height="145" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1618163839712" />
-    <state width="740" height="145" key="GridCell.Tab.0.right" timestamp="1618163839713">
+    <state width="686" height="145" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1618177826184" />
+    <state width="686" height="145" key="GridCell.Tab.0.right" timestamp="1618177826185">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="740" height="145" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1618163839713" />
+    <state width="686" height="145" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1618177826185" />
     <state x="0" y="23" key="SettingsEditor" timestamp="1618163434222">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
