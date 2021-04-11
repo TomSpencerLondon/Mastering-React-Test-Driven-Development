@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1b0d76d-6a6d-4d2b-a1ab-30a677b91c41" name="Default Changelist" comment="" />
+    <list default="true" id="b1b0d76d-6a6d-4d2b-a1ab-30a677b91c41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +49,69 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.Appointment.renders the customer first name">
+    <configuration name="Appointment" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="/usr/local/Cellar/node/15.12.0/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/Appointment.test.js" />
+      <test-names>
+        <test-name value="Appointment" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Appointment.renders the customer first name" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="/usr/local/Cellar/node/15.12.0/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/Appointment.test.js" />
+      <test-names>
+        <test-name value="Appointment" />
+        <test-name value="renders the customer first name" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Appointment.works" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="/usr/local/Cellar/node/15.12.0/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/Appointment.test.js" />
+      <test-names>
+        <test-name value="Appointment" />
+        <test-name value="works" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest">
+      <node-interpreter value="/usr/local/Cellar/node/15.12.0/bin/node" />
+      <node-options value="" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Appointment.renders the customer first name" />
+        <item itemvalue="Jest.Appointment.works" />
+        <item itemvalue="Jest.Appointment" />
+        <item itemvalue="Jest.All Tests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618095470385</updated>
-      <workItem from="1618095472375" duration="1020000" />
+      <workItem from="1618095472375" duration="2070000" />
     </task>
     <servers />
   </component>
@@ -72,5 +138,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="23" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618163548424">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="23" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1618163548424" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1618163434222">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1618163434222" />
   </component>
 </project>
